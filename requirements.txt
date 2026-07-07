@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+python-dotenv
+pydantic
+bcrypt
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-generativeai
+dnspython
+email-validator
